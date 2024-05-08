@@ -1,6 +1,7 @@
 # contador_de_pessoas
 
-A new Flutter project.
+Projeto desenvolvido na aula de desenvolvimento de dispositivos móveis I - 2024-1 
+Um simples contador de pessoas que entram em um estabelecimento. Um botão aumenta o contador e outro botão diminiu o contador.
 
 ## Getting Started
 
